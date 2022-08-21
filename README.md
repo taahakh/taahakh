@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 Started coding static websites and got into the realm of web frameworks. 
-Developed multiple programs in many different languages such as Java, Python, Go
+Developed multiple programs in many different languages such as Java, Python, Go.
 I love building web solutions but now i also have a keen interest in AI and Machine Learning.
 
 * 🌍  I'm based in London
