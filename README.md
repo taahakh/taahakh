@@ -4,11 +4,12 @@ Hi 👋 My name is Ahnaf Khalique
 Software Engineer
 -----------------
 
-Started coding static websites and got into the realm of web frameworks. I decided to explore everything there is to computer science and now i've decided to focus on AI and Machine Learning.
+Started coding static websites and got into the realm of web frameworks. 
+Developed multiple programs in many different languages such as Java, Python, Go
+I love building web solutions but now i also have a keen interest in AI and Machine Learning.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [ahnafkhalique@gmail.com](mailto:ahnafkhalique@gmail.com)
-* 🧠  I'm learning about AI and Machine Learning
 
 ### Skills
 
