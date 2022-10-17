@@ -6,6 +6,15 @@
      - 🔨 If you want to work on building financial tools or any project, let me know 😄.
      - 😮 Fun Fact: I like sleeping.
 
+- :telescope: I’m aspiring to be Software Engineer and developing data-based and web applications.
+
+- :seedling: Exploring ROCKETS.
+
+- :zap: In my free time, I well I don't even know.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahnaf-khalique-2709aa149/)
+
+
 Started my journey developing static websites. Discovered Java and it became my language for a while.
 Found Python and Go and created some interesting solutions.
 I've built solutions for a company and i've attended hackathons.
