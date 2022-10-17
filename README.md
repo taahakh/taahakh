@@ -1,9 +1,10 @@
 ![Alt text](header.png?raw=true "Title")
 
      - 🔭 I'm currently working on developing rocket systems and tools
-     - 🌱 I'm currently learning C++, Matlab for the rocket project. Please send help!
+     - 🌱 I'm learning C++, Matlab for the rocket project. Please send help!
      - 🤔 Want a fast web scraper or something to track your businesses performance, look below!
-     - Fun Fact: I like sleeping.
+     - 🔨 If you want to work on building financial tools or any project, let me know 😄.
+     - 😮 Fun Fact: I like sleeping.
 
 Started my journey developing static websites. Discovered Java and it became my language for a while.
 Found Python and Go and created some interesting solutions.
