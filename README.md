@@ -1,4 +1,4 @@
-![Alt text](header.jgp?raw=true "Title")
+![Alt text](header.png?raw=true "Title")
 
 Hi 👋 My name is Ahnaf Khalique
 ===============================
