@@ -1,4 +1,4 @@
-![alt text](http://github.com/taahakh/header.png)
+!(https://github.com/taahakh/header.png)
 
 Hi 👋 My name is Ahnaf Khalique
 ===============================
