@@ -1,4 +1,4 @@
-!(https://github.com/taahakh/header.png)
+![Alt text](header.jgp?raw=true "Title")
 
 Hi 👋 My name is Ahnaf Khalique
 ===============================
