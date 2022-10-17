@@ -1,12 +1,9 @@
 Hi 👋 My name is Ahnaf Khalique
 ===============================
 
-Aspiring Software Engineer
------------------
-
-Started coding static websites and got into the realm of web frameworks. 
-Developed multiple programs in many different languages such as Java, Python, Go.
-I love building web solutions but now i also have a keen interest in AI and Machine Learning.
+Started my journey developing static websites. Discovered Java and it became my language for a while.
+Found Python and Go and created some interesting solutions.
+I've built solutions for a company and i've attended hackathons.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [ahnafkhalique@gmail.com](mailto:ahnafkhalique@gmail.com)
