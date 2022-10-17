@@ -1,23 +1,14 @@
 ![Alt text](header.png?raw=true "Title")
 
+     - I’m aspiring to be Software Engineer and developing data-based and web applications.
      - 🔭 I'm currently working on developing rocket systems and tools
      - 🌱 I'm learning C++, Matlab for the rocket project. Please send help!
      - 🤔 Want a fast web scraper or something to track your businesses performance, look below!
      - 🔨 If you want to work on building financial tools or any project, let me know 😄.
+     - :zap: I've attended hackathons and engineering competitions
      - 😮 Fun Fact: I like sleeping.
+     - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahnaf-khalique-2709aa149/)
 
-- :telescope: I’m aspiring to be Software Engineer and developing data-based and web applications.
-
-- :seedling: Exploring ROCKETS.
-
-- :zap: In my free time, I well I don't even know.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahnaf-khalique-2709aa149/)
-
-
-Started my journey developing static websites. Discovered Java and it became my language for a while.
-Found Python and Go and created some interesting solutions.
-I've built solutions for a company and i've attended hackathons.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [ahnafkhalique@gmail.com](mailto:ahnafkhalique@gmail.com)
