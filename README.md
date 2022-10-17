@@ -1,10 +1,9 @@
 ![Alt text](header.png?raw=true "Title")
 
      - 🔭 I'm currently working on developing rocket systems and tools
-     - 🌱 I'm currently learning Rust, TypeScript (again) and other cool stuff!
+     - 🌱 I'm currently learning C++, Matlab for the rocket project. Please send help!
      - 👯 I'm looking to collaborate on full stack web apps!
-     - 🤔 I'm looking for help with Typescript and React
-     - 💬 Ask me about Vue, 3D art (including voxel art), donuts and robots
+     - 🤔 Want a fast web scraper or something to track your businesses performance, look below!
      - 📫 How to reach me: 
           - [email](mailto:)  
 
