@@ -1,7 +1,7 @@
 Hi 👋 My name is Ahnaf Khalique
 ===============================
 
-Software Engineer
+Aspiring Software Engineer
 -----------------
 
 Started coding static websites and got into the realm of web frameworks. 
