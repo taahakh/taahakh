@@ -1,5 +1,13 @@
 ![Alt text](header.png?raw=true "Title")
 
+     - 🔭 I'm currently working on developing rocket systems and tools
+     - 🌱 I'm currently learning Rust, TypeScript (again) and other cool stuff!
+     - 👯 I'm looking to collaborate on full stack web apps!
+     - 🤔 I'm looking for help with Typescript and React
+     - 💬 Ask me about Vue, 3D art (including voxel art), donuts and robots
+     - 📫 How to reach me: 
+          - [email](mailto:)  
+
 Started my journey developing static websites. Discovered Java and it became my language for a while.
 Found Python and Go and created some interesting solutions.
 I've built solutions for a company and i've attended hackathons.
