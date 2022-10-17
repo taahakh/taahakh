@@ -1,8 +1,5 @@
 ![Alt text](header.png?raw=true "Title")
 
-Hi 👋 My name is Ahnaf Khalique
-===============================
-
 Started my journey developing static websites. Discovered Java and it became my language for a while.
 Found Python and Go and created some interesting solutions.
 I've built solutions for a company and i've attended hackathons.
