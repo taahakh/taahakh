@@ -5,13 +5,11 @@
      - 🌱 I'm learning C++, Matlab for the rocket project. Please send help!
      - 🤔 Want a fast web scraper or something to track your businesses performance, look below!
      - 🔨 If you want to work on building financial tools or any project, let me know 😄.
-     - :zap: I've attended hackathons and engineering competitions
+     - ⚡ I've attended hackathons and engineering competitions soooo I like competing
      - 😮 Fun Fact: I like sleeping.
-     - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahnaf-khalique-2709aa149/)
-
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [ahnafkhalique@gmail.com](mailto:ahnafkhalique@gmail.com)
+* ✉️  You can contact me at [linkedin.com/in/ahnaf-khalique](https://www.linkedin.com/in/ahnaf-khalique-2709aa149/)
 
 ### Skills
 
