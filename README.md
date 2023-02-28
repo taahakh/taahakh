@@ -1,11 +1,10 @@
 ![Alt text](header.png?raw=true "Title")
 
-     - I’m aspiring to be Software Engineer and developing data-based and web applications.
+     - I’m aspiring to be Software Engineer and developing data-based web applications.
      - 🔭 I'm currently working on developing rocket systems and tools
-     - 🌱 I'm learning C++, Matlab for the rocket project. Please send help!
-     - 🤔 Want a fast web scraper or something to track your businesses performance, look below!
+     - 🌱 I'm learning C++ for the rocket project. Please send help!
      - 🔨 If you want to work on building financial tools or any project, let me know 😄.
-     - ⚡ I've attended hackathons and engineering competitions soooo I like competing
+     - ⚡ I've attended hackathons and engineering competitions soooo erm I like competing?
      - 😮 Fun Fact: I like sleeping.
 
 * 🌍  I'm based in London
