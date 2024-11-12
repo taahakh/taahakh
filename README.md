@@ -1,7 +1,10 @@
 ![Alt text](header.png?raw=true "Title")
 
      - I’m aspiring to be Software Engineer who loves to learn new things and work on widely different, challening projects.
-     - I've worked on developing avionics software for rockets, a CNN model for image classification for the CIFAR-10 dataset, built a unqiue custom web scraping framework in Go
+     - I've worked on 
+          - Avionics software for rockets
+          - CNN model for image classification for the CIFAR-10 dataset
+          - Built a unqiue custom web scraping framework in Go
      - I've love attending hackathons, with my notable achievement in coming 2nd place in the Mckinsey hackathon in 2020
 
 ### Skills
