@@ -7,8 +7,6 @@
      - ⚡ I've attended hackathons and engineering competitions soooo erm I like competing?
      - 😮 Fun Fact: I like sleeping.
 
-* 🌍  I'm based in London
-* ✉️  You can contact me at [linkedin.com/in/ahnaf-khalique](https://www.linkedin.com/in/ahnaf-khalique-2709aa149/)
 
 ### Skills
 
