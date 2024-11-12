@@ -1,12 +1,8 @@
 ![Alt text](header.png?raw=true "Title")
 
-     - I’m aspiring to be Software Engineer and developing data-based web applications.
-     - 🔭 I'm currently working on developing rocket systems and tools
-     - 🌱 I'm learning C++ for the rocket project. Please send help!
-     - 🔨 If you want to work on building financial tools or any project, let me know 😄.
-     - ⚡ I've attended hackathons and engineering competitions soooo erm I like competing?
-     - 😮 Fun Fact: I like sleeping.
-
+     - I’m aspiring to be Software Engineer who loves to learn new things and work on widely different, challening projects.
+     - I've worked on developing avionics software for rockets, a CNN model for image classification for the CIFAR-10 dataset, built a unqiue custom web scraping framework in Go
+     - I've love attending hackathons, with my notable achievement in coming 2nd place in the Mckinsey hackathon in 2020
 
 ### Skills
 
